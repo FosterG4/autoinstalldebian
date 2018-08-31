@@ -263,7 +263,7 @@ echo "IPv6     : [off]"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Thanks To"  | tee -a log-install.txt
 echo "---------"  | tee -a log-install.txt
-echo "Allah"  | tee -a log-install.txt
+echo "foster"  | tee -a log-install.txt
 echo "F for Fuck"  | tee -a log-install.txt
 echo "Google"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
